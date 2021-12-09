@@ -17,8 +17,8 @@ H1 {
 }
 /* Make your p tag a different color and italic */
 p {
-  background-color:#faebd7
-  font-style:italic;
+    font-style: italic;
+    background-color:#faebd7
 
 
 }
